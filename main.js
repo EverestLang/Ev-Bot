@@ -51,11 +51,3 @@ client.on('message', message =>{
         client.commands.get('testunmute').execute(message, args);
     }
 });
-
-
-
-
-
-
-
-client.login('ODM3MDA2NTM3NzgzNzcxMjA3.YImRFQ.BL3OYINRj-yJwDLjYeLi1VFq9W4')
